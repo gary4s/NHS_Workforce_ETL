@@ -36,3 +36,6 @@ How to Run
 Configure Notebooks: Import the notebooks into your Databricks workspace.
 Set Checkpoint Path: Ensure the checkpoint_path variable in the Bronze notebook points to a persistent directory.
 Deploy Workflow: Create a Databricks Job and chain the notebooks in the order: Bronze -> Silver -> Gold.
+
+![Dashboard](assets/dashboard_pg1.png)
+![Dashboard](assets/dashboard_pg2.png)
